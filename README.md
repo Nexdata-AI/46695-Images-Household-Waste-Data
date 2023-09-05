@@ -4,7 +4,8 @@
 ## Description
 46,695 Images- Household Waste Data.The data includes multiple types of waste, multiple scenes. This data set can be used for tasks such as object detection, classification, and recognition.
 
-For more details, please refer to the link: https://bit.ly/3fjHnYi
+For more details, please refer to the link: https://www.nexdata.ai/datasets/1030?source=Github
+
 
 ## Date size
 46,695 images, 46,695 bounding boxes
